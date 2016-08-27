@@ -4,7 +4,7 @@ This is be the main repository for course materials except for slides. Please us
 
 ## Getting Started
 - [GitHub basics](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/github-basics.md)
-- Problem statement (focus for final project)
+- [Problem statement](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/problem-statement.md) (focus for final project)
 
 ## Weekly Assignments
 - How to submit weekly assignments

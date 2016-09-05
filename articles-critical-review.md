@@ -1,6 +1,6 @@
 # Selection of Articles for Critical Review
 
-| Date | Topic | Readings | Presentation |
+| Date | Topic | Readings | Presentation ([rubric](https://github.com/ub-idia640-2016/course-materials/blob/master/presentation-critical-review.md)) |
 | --- | --- | --- | --- |
 |  31 Aug |  |    |   |
 |  7 Sept  |  |  |  |

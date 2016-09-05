@@ -2,13 +2,13 @@
 
 **Assignments are always due before class.** Anything with a submission SHA after 5:30 on Wednesday of that week is late.
 
-Each week will include one or more readings of a topical nature. Students are expected to compose a short, weekly review on that topic. The first part summarizes key learning points, while the second provides demonstrative, positive or negative examplars (with screen shots and explanation), drawn from actual media, websites, or applications.
+Each week will include one or more readings of a topical nature. Students are expected to compose a short, weekly review on that topic. The first part summarizes key learning points, while the second provides demonstrative, positive or negative exemplars (with screen shots and explanation), drawn from actual media, websites, or applications.
 
 - There are 10 weekly reports.
 - Each report is worth 5 points.
 - You can miss 1 and still get full credit.
 
-Each weekly report is assesed as follows:
+Each weekly report is assessed as follows:
 
 1. Did you include both sections (key learning points and your examples)? (1 point)
 

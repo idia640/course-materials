@@ -15,12 +15,11 @@ Weekly Paper 45%, Participation 10%
 - [Participation](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/participation.md)
 
 ### Critical Review
-Paper 10%, Presentation 5%
-- [Articles](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/articles-critical-review.md)
-- [Guidelines for short paper](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/guidelines-short-paper.md)
-- [Presentations](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/presentation-critical-review.md)
+Paper 10%, Presentation & Discussion 5%
+- [List of articles](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/articles-critical-review.md)
+- [Guidelines for critical review](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/guidelines-short-paper.md)
+- [Presentation and  discussion](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/presentation-critical-review.md)
 
 ### Project
 30%
 - [Guidelines for final project](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/guidelines-final-project.md)
-- [Final presentation](https://github.com/ub-idia640-2016/course-materials-and-discussion/blob/master/final-presentation.md)

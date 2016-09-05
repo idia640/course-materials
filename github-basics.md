@@ -6,7 +6,7 @@ Objective: This assignment is not graded, and is intended to give you practice i
 - Creating directories and documents in your private repository
 - Writing and editing markdown documents
 - Uploading and linking image files
-- Submitting an assignment via creation of an issue and pasting in a revison SHA
+- Submitting an assignment via creation of an issue and pasting in a revision SHA
 
 If any of this is confusing, we'll practice more in the second class and I'll update these instructions to help make things more clear.
 

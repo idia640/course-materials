@@ -20,6 +20,8 @@ Each weekly report is assessed as follows:
 
 5. Did your example(s) clearly illustrate key point(s) intended.
 
+[Link to templated example.](weekly-rebric-example.md)
+
 How you might lose points:
 
 - For each day an assignment is late, you will lose 1 point. No exceptions.

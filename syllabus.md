@@ -18,8 +18,8 @@ weight = 5
 | 5 Oct | [How we do think?](https://ub-idia640-2016.github.io/slides/week06.html) (Attention and the divided brain) | Kahneman Ch. 1-9 | Weekly |
 | 12 Oct | [How do feelings affect our beliefs?](https://ub-idia640-2016.github.io/slides/week07.html) (Emotion, feeling, and neuroaesthics) | [Damasio](https://drive.google.com/open?id=0B3SsgcqV1xSSd09KN3RKTDdyUjA), [Nadal & Skov](https://drive.google.com/open?id=0B3SsgcqV1xSSSkVPeWxHaFhzZXM)  | Weekly, Project - ethnographic study of target population |
 | 19 Oct | [How do we understand?](https://ub-idia640-2016.github.io/slides/week08.html) (Communication as joint action)  | [Clark](https://drive.google.com/open?id=0B3SsgcqV1xSSMjR3UWFkbm9sNEU), [Goffman](https://drive.google.com/open?id=0B3SsgcqV1xSSY0N2TEYxaWd3ZXM) (optional: Johnson 14)| Weekly |
-| 26 Oct | How do people make decisions when they are uncertain? (Heuristics and biases) | Kahneman Ch. 11-14, Johnson 12 | Weekly, Project - first draft solution |
-| 2 Nov | Why is framing choice so important? (Rationality & decision-making) | Kahneman Ch. 26, 28, 34, Thaler and Sunstein  | Weekly, Project - relate readings/topics to your solution |
+| 26 Oct | No Class | Kahneman Ch. 11-14, Johnson 12 | Weekly, Project - first draft solution |
+| 2 Nov | [How do people make decisions when they are uncertain?](https://ub-idia640-2016.github.io/slides/week09.html) (Heuristics and Biases); [Why is framing choice so important?](https://ub-idia640-2016.github.io/slides/week10.html) (Rationality & decision-making) | Kahneman Ch. 26, 28, 34, Thaler and Sunstein  | Weekly, Project - relate readings/topics to your solution |
 | 9 Nov | How are people influenced through persuasion? | Jucker, Cialdini, Fogg or Oinas-Kukkonen & Harjumaa | Weekly, Updates to project solution |
 | 16 Nov  | How does culture affect thinking?  | Hall, Hofstede | Weekly, Project - plan to evaluate solution effectiveness |
 | 23 Nov | Thanksgiving - No Class |  |  |

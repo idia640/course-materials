@@ -6,7 +6,7 @@ Reading scientific papers may seem daunting. They have a formal structure and au
 
 I generally read the abstract, skim for structure, then briefly review the introduction and conclusion. If the paper looks important, I will dig deeper.
 
-The most important thing is to remain open-minded (skeptical, even) and not read too much into the study. As a reader, it can be difficult not to over-generalize results or take a single study as definitive proof. To read critically, consider how choices the author made may have led to conclusions that are not generalizeable.
+The most important thing is to remain open-minded (skeptical, even) and not read too much into the study. As a reader, it can be difficult not to over-generalize results or take a single study as definitive proof. To read critically, consider how choices the author made may have led to conclusions that are not generalizable.
 
 ## 1. Read the abstract carefully.
 
@@ -55,7 +55,7 @@ The critique is worth 10 points. It doesn't need to be longer than 1-2 pages. Yo
 #### Summary (5 points)
 - 1 point - research question
 
-These may be divided across experiments.
+These may be divided across experiments; some studies have multiple experiments -- do your best to summarize.
 
 - 1 point - hypothesis
 - 1 point - research design

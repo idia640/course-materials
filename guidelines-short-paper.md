@@ -45,7 +45,7 @@ I find it helps to take notes while reading. For experiments, it helps to sketch
 > Can you imagine how insights from this paper might be used in design?
 
 ### Example
-Look at the notes in [this paper](https://drive.google.com/open?id=0B3SsgcqV1xSSVjJqak03Mm1xX2c), to help guide your thinking. Those annotations in red refer directly to the summary portion of your assignment.
+Look at the notes in [this paper](sauro_lewisCHI2011.pdf), to help guide your thinking. Those annotations in red refer directly to the summary portion of your assignment.
 
 ### Rubric
 

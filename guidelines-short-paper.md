@@ -22,7 +22,7 @@ Often experimental studies will have multiple hypotheses and conditions. This is
 >
 >  Research design
 >
-Conditions & variables
+> Conditions & variables
 >
 >  Findings
 

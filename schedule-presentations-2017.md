@@ -8,6 +8,6 @@
 | Guy | Knowing with certainty: The appropriateness of extreme confidence | 24 Oct
 | Widmarc | The Mindlessness of Ostensibly Thoughtful Action | 24 Oct
 | Mandy / Eric | Indirect persuasion in advertising: How consumers process metaphors presented in pictures and words | 31 Oct
-| Liz | Attending Holistically Versus Analytically Comparing the Context Sensitivity of Japanese and Americans | 14 Oct
+| Liz | Attending Holistically Versus Analytically Comparing the Context Sensitivity of Japanese and Americans | 14 Nov
 | Amy | The Spread of Obesity in a Large Social Network over 32 Years | 28 Nov
 | JaNisha | Dynamic spread of happiness in a large social network | 28 Nov

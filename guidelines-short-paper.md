@@ -20,7 +20,7 @@ Often experimental studies will have multiple hypotheses and conditions. This is
 
 >  Hypothesis
 >
->  Research design
+>  Research design (You will need to refer to material given in class)
 >
 > Conditions & variables
 >

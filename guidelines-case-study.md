@@ -8,7 +8,7 @@ Be sure to communicate:
 
 - The challenge problem (5 points)
 - The target user population (5 points)
-- Your design solution for nudging behavior and your desired outcome (5 points)
+- Your design solution for nudging or affecting behavior and your desired outcome (5 points)
 - Design decisions that link to scientific concepts explored in this class (5 points)
 - How you might evaluate the effectiveness of your design (5 points)
 

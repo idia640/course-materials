@@ -68,4 +68,4 @@ These may be divided across experiments; some studies have multiple experiments 
 
 ## Presentation
 
-Guidelines appear in the [critical-review.md](https://github.com/idia640/student_repository/blob/master/critical-review.md) template in your repository. But you can also see them [here](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md).
+Guidelines appear in the critical-review template in your repo. But you can also see them [here](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md).

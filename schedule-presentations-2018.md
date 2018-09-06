@@ -19,4 +19,4 @@
 | 13 Nov  | Culture | Alexandra | [Attending Holistically Versus Analytically: Comparing the Context Sensitivity of Japanese Versus Americans](https://www.dropbox.com/s/v5nabg01fbmn452/Attending%20Holistically%20Versus%20Analytically%20Comparing%20the%20Context%20Sensitivity%20of%20Japanese%20and%20Americans.pdf?dl=0) |
 | 13 Nov  | Culture | Steph | [Culture and Change Blindness](https://www.dropbox.com/s/83kvywzpjnjse28/Culture%20and%20Change%20Blindness.pdf?dl=0) |
 | 27 Nov  | Networks | Brittany F. | [Dynamic Spread Of Happiness In A Large Social Network: Longitudinal Analysis Over 20 Years In the Framingham Heart Study](https://www.dropbox.com/s/ejha1wbxp32k74w/Dynamic%20spread%20of%20happiness.pdf?dl=0) |
-| 27 Nov  | Networks || [The Spread Of Obesity In A Large Social Network Over 32 Years](https://www.dropbox.com/s/ae6d8w7nux5zipx/The%20spread%20of%20obesity.pdf?dl=0) |
+| 27 Nov  | Networks | Dawn | [The Spread Of Obesity In A Large Social Network Over 32 Years](https://www.dropbox.com/s/ae6d8w7nux5zipx/The%20spread%20of%20obesity.pdf?dl=0) |

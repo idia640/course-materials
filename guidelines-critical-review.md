@@ -65,3 +65,7 @@ These may be divided across experiments; some studies have multiple experiments 
 #### Critical Thinking (5 points)
 
 - Select and answer five questions from section three above.
+
+## Presentation
+
+Guidelines appear in the [critical-review.md](https://github.com/idia640/student_repository/blob/master/critical-review.md) template in your repository. But you can also see them [here](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md).

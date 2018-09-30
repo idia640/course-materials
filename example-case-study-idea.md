@@ -24,7 +24,7 @@ You conclude that people don’t think they are at risk if they've never been hi
 
 ## Design Thinking
 
-You decide that you need to find a solution to help people better understand actual risk when tornadoes are in the area — you want to help people imagine what might happen and that the threat is real. 
+You decide that you need to find a solution to help people better understand actual risk when tornadoes are in the area — you want to help people imagine what might happen and persuade them that the threat is real. 
 
 ## Attribution
 

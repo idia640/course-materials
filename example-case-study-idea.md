@@ -26,6 +26,10 @@ You conclude that people don’t think they are at risk if they've never been hi
 
 You decide that you need to find a solution to help people better understand actual risk when tornadoes are in the area — you want to help people imagine what might happen and that the threat is real. 
 
+## Attribution
+
+The idea for this came from Michael Lewis "The Coming Storm" and work he described by Kim Klockow, who works at the intersection of meteorology and social and behavioral science. 
+
 
 
 

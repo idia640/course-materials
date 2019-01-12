@@ -4,7 +4,7 @@ Reading scientific papers may seem daunting. They have a formal structure and au
 
 **Don't read your paper straight through, skim the structure first.**
 
-I generally read the abstract, skim for structure, then briefly review the introduction and conclusion. If the paper looks important, I will dig deeper.
+I generally read the abstract, skim for structure, identify hypotheses, experimental method, then briefly review the introduction and conclusion. If the paper looks important, I will dig deeper.
 
 The most important thing is to remain open-minded (skeptical, even) and not read too much into the study. As a reader, it can be difficult not to over-generalize results or take a single study as definitive proof. To read critically, consider how choices the author made may have led to conclusions that are not generalizable.
 
@@ -12,7 +12,7 @@ The most important thing is to remain open-minded (skeptical, even) and not read
 
 > What is the central research question addressed?
 
-The answer to this question should be in the abstract. It should also be re-iterated somewhere at the beginning of the paper. It will be helpful to find this, since abstracts are dense and you may need more information to fully understand what is meant.
+The answer to this question should be in the abstract. It should also be re-iterated somewhere toward the beginning of the paper. It will be helpful to find this, since abstracts are dense and you may need more information to fully understand what is meant.
 
 Often experimental studies will have multiple hypotheses and conditions. This is to rule out alternative explanations. It's not possible to conduct a perfect experiment - but authors will try to provide as much evidence as possible to support their claim.
 
@@ -29,6 +29,8 @@ Often experimental studies will have multiple hypotheses and conditions. This is
 I find it helps to take notes while reading. For experiments, it helps to sketch out a table to capture the conditions and variables. In your own words (and succinctly), what are the findings?
 
 ## 3. Critique
+
+Please make sure you answer the "how" or "why nots" and not just "yes" or "no."
 
 > Does the paper seem significant or not? Why or why not?
 

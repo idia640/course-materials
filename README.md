@@ -6,7 +6,7 @@ If you have general questions and want to open discussion with the class, please
 
 ## Rubrics
 
-- [Case Study problem statement](https://github.com/idia640/course-materials/blob/master/problem-statement.md) (this is ungraded)
+- [Case Study proposal](https://github.com/idia640/course-materials/blob/master/case-study-proposal.md) (this is ungraded)
 
 ### Weekly Assignments
 45% - 5 points for each assignment.
@@ -15,13 +15,15 @@ If you have general questions and want to open discussion with the class, please
 
 ### Critical Review
 Paper 10%, Presentation & Discussion 5%
-- [List of articles (page 3)](https://idia640.github.io/public/hcc-bibliography.pdf)
-- [Guidelines for critical review](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md)
+- [List of articles](schedule-presentations-Spring2018.md)
+- [Guidelines for critical review](https://github.com/idia640/course-materials/blob/master/guidelines-critical-review.md)
 - [Presentation and  discussion](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)
 
 ### Project
-30%
-- [Guidelines for case study and final presentation](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md)
+20%
+- [Case study template](case-study-template.md)
+10%
+- [Guidelines for case study poster presentation](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md)
 
 ## Participation
 10%

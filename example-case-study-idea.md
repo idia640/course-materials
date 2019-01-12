@@ -1,14 +1,12 @@
-# Example Case Study Idea
+# Example Case Study Idea - Tornado warnings
 
 ## Problem
 
 Despite the availability of high quality weather predictions and advance warning, every year people die from tornadoes. What can be done to save lives?
 
-## Who will you study? 
+## Who will you study?
 
 This is where ethnographic research is important. Who can you interview or survey? Are there people that have survived tornadoes who described why the acted/or didn’t act, or if they were aware/not aware of a warning in a timely manner? Maybe in a specific town or area?
-
-For this class, if you can’t find informants, you could do  some research online to answer this question. Other people have survived tornados and been interviewed in newspapers, surveys, and case studies.
 
 ## Before your research
 
@@ -24,15 +22,8 @@ You conclude that people don’t think they are at risk if they've never been hi
 
 ## Design Thinking
 
-You decide that you need to find a solution to help people better understand actual risk when tornadoes are in the area — you want to help people imagine what might happen and persuade them that the threat is real. 
+You decide that you need to find a solution to help people better understand actual risk when tornadoes are in the area — you want to help people imagine what might happen and persuade them that the threat is real.
 
 ## Attribution
 
-The idea for this came from Michael Lewis "The Coming Storm" and work he described by Kim Klockow, who works at the intersection of meteorology and social and behavioral science. 
-
-
-
-
-
-
-
+The idea for this came from Michael Lewis "The Coming Storm" and work he described by Kim Klockow, who works at the intersection of meteorology and social and behavioral science.

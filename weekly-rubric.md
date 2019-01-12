@@ -14,9 +14,9 @@ Did you include key learning points from the reading? (1 point)
 
 Did you include references to original work(s) to include page number (where appropriate)? (1 point)
 
-Did you provide at least one example (your own) from actual practice that illustrates one or more of your key learning points? (1 point)
+Did you provide at least one example (your own) from actual practice that illustrates one or more of your key learning points? Please try to find an example from design whether physical, digital, interactional, publication, etc. (1 point)
 
-Did your example(s) clearly illustrate key point(s) intended? (1 point)
+Did your example(s) clearly illustrate key point(s) intended? In most cases, you will need to include an image or something that helps the reader understand your point. (1 point)
 
 Did you communicate with impact? (1 point)
 
@@ -24,7 +24,6 @@ How you might lose points:
 
 - For each day an assignment is late, you will lose 1 point.
 - You can lose a point if your entry contains excessive typographical or grammatical errors; think of this is as 'not communicating with impact'.
-- You can lose a point if your images / links don't work properly. So please preview your markdown and make sure everything looks as intended.
 
 These assignments are for your benefit: they should help cement learning points in your memory and to tie them to practical examples that you will recall later.
 

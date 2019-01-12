@@ -1,4 +1,4 @@
-# Case Study Proposal
+# Case Study
 
 For your case study, you will focus on a persuasive design. The design problem does not need to be large. Your problem may be as small as encouraging a user to give feedback during a particular interaction. Or as broad as influencing a user population to stop smoking. <sup>[1](#myfootnote1)</sup>
 
@@ -16,3 +16,5 @@ Don't think too hard about how you would improve this interaction just yet. We'r
 
 <a name="myfootnote1">1</a>: For some ideas of how to frame a problem in just a few sentences, look at [these examples from the nudge blog](https://nudges.files.wordpress.com/2008/04/our-dozen-nudges1.pdf
 ). Just consider the problem part of the examples -- not solutions.
+
+I have created a [second case study example - tornado warnings](example-case-study-idea.md) - that demonstrates why you should keep your idea simple and not make too many assumptions up front. Next week you will learn about ethnographic research and this demonstrates why such research is important.

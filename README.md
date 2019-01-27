@@ -15,14 +15,13 @@ If you have general questions and want to open discussion with the class, please
 
 ### Critical Review
 Paper 10%, Presentation & Discussion 5%
-- [List of articles](schedule-presentations-Spring2018.md)
+- [List of articles](schedule-presentations-Spring2019.md)
 - [Guidelines for critical review](https://github.com/idia640/course-materials/blob/master/guidelines-critical-review.md)
 - [Presentation and  discussion](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)
 
 ### Project
-20%
+Template 10%, Poster 20%
 - [Case study template](case-study-template.md)
-10%
 - [Guidelines for case study poster presentation](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md)
 
 ## Participation

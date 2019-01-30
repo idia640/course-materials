@@ -10,7 +10,7 @@ You are not limited to problems involving pixels (e.g., websites or applications
 
 > Write a short problem statement centered on the interaction you wish to create or improve.  **Describe your goal, target user population, and behavior(s) you want to change or encourage.**
 
-> Please share these to the slack channel https://idia640.slack.com/messages/casestudy-ideas.
+> Please share these to the slack channel https://idia640.slack.com/messages/case-studies-spring19.
 
 Don't think too hard about how you would improve this interaction just yet. We're going to work on your problem at intervals throughout this course. You will also learn a lot more about persuasion and how to create persuasive designs. For now, consider the problem on which you will focus.
 

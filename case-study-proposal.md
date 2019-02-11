@@ -10,11 +10,13 @@ You are not limited to problems involving pixels (e.g., websites or applications
 
 > Write a short problem statement centered on the interaction you wish to create or improve.  **Describe your goal, target user population, and behavior(s) you want to change or encourage.**
 
-> Please share these to the slack channel https://idia640.slack.com/messages/casestudy-ideas.
+> Please share these to the slack channel https://idia640.slack.com/messages/case-studies-spring19.
 
 Don't think too hard about how you would improve this interaction just yet. We're going to work on your problem at intervals throughout this course. You will also learn a lot more about persuasion and how to create persuasive designs. For now, consider the problem on which you will focus.
 
-<a name="myfootnote1">1</a>: For some ideas of how to frame a problem in just a few sentences, look at [these examples from the nudge blog](https://nudges.files.wordpress.com/2008/04/our-dozen-nudges1.pdf
+Here are some great resources to kickstart your thinking and help you to understand some basics about case studies for design: 
+- For some ideas of how to frame a problem in just a few sentences, look at [these examples from the nudge blog](https://nudges.files.wordpress.com/2008/04/our-dozen-nudges1.pdf
 ). Just consider the problem part of the examples -- not solutions.
-
-I have created a [second case study example - tornado warnings](example-case-study-idea.md) - that demonstrates why you should keep your idea simple and not make too many assumptions up front. Next week you will learn about ethnographic research and this demonstrates why such research is important.
+- I have created a [second case study example - tornado warnings](example-case-study-idea.md) - that demonstrates why you should keep your idea simple and not make too many assumptions up front. In the third week of this course, you will learn about ethnographic research and why it is important.
+- Yet another idea can be found in the ethnography reading from Mabsen et al. ["What is Design Ethnography?"](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0)
+- Finally, check out case study #1 (using ethnographic research) from https://www.stby.eu/wp_15/wp-content/uploads/2013/12/Service-Design-insights-from-nine-case-studies.pdf

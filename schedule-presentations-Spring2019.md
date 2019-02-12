@@ -14,8 +14,8 @@
 | 2 Apr  | Heuristics & biases || [Explaining the Enigmatic Anchoring Effect: Mechanisms Of Selective Accessibility](https://www.dropbox.com/s/vihju37ob82nvxb/Explaining%20the%20enigmatic%20anchoring%20effect.pdf?dl=0) |
 | 9 Apr  | Rationality & decision-making |  | [Knowing With Certainty: The Appropriateness Of Extreme Confidence](https://www.dropbox.com/s/cbzihvnxfhzmaun/Knowing%20with%20Certainty.pdf?dl=0) |
 | 9 Apr  | Rationality & decision-making |  | [Extraneous Factors In Judicial Decisions](https://www.dropbox.com/s/glnbbxtmmxy3thr/Extraneous%20factors%20in%20judicial%20decisions.pdf?dl=0) |
-| 16 Apr   | Persuasion | Kristen, Steve | [Indirect Persuasion In Advertising](https://www.dropbox.com/s/wrp6zoz4gi5ynsq/Indirect%20persuasion%20in%20advertising.pdf?dl=0) |
-| 16 Apr   | Persuasion |  |[Cognitive Consequences Of Forced Compliance](https://www.dropbox.com/s/xilkul1lqvnh2sx/cognitive-consequence-forced-compliance.pdf?dl=0) |
+| 16 Apr   | Persuasion | Stephen | [Indirect Persuasion In Advertising](https://www.dropbox.com/s/wrp6zoz4gi5ynsq/Indirect%20persuasion%20in%20advertising.pdf?dl=0) |
+| 16 Apr   | Persuasion | Kristen  |[Cognitive Consequences Of Forced Compliance](https://www.dropbox.com/s/xilkul1lqvnh2sx/cognitive-consequence-forced-compliance.pdf?dl=0) |
 | 30 Apr  | Culture | Selene | [Attending Holistically Versus Analytically: Comparing the Context Sensitivity of Japanese Versus Americans](https://www.dropbox.com/s/v5nabg01fbmn452/Attending%20Holistically%20Versus%20Analytically%20Comparing%20the%20Context%20Sensitivity%20of%20Japanese%20and%20Americans.pdf?dl=0) |
 | 30 Apr  | Culture | Jasen | [Culture and Change Blindness](https://www.dropbox.com/s/83kvywzpjnjse28/Culture%20and%20Change%20Blindness.pdf?dl=0) |
 | 7 May  | Social networks | Sarah | [Dynamic Spread Of Happiness In A Large Social Network: Longitudinal Analysis Over 20 Years In the Framingham Heart Study](https://www.dropbox.com/s/ejha1wbxp32k74w/Dynamic%20spread%20of%20happiness.pdf?dl=0) |

@@ -12,7 +12,7 @@
 | 26 Mar  | Communication |  | [Calling the GP surgery: Patient burden, patient satisfaction, and implications for training](https://www.dropbox.com/s/e8vbmz75hr0x9vg/Calling_the_GP_surgery_Patient_burden_patient_sati.pdf?dl=0) |
 | 2 Apr | Heuristics & biases | Bridget | [Defaults, Framing & Privacy: Why Opting In-Opting Out](https://www.dropbox.com/s/c57lvbn70x60cab/Defaults%20framing%20and%20privacy.pdf?dl=0) |
 | 2 Apr  | Heuristics & biases || [Explaining the Enigmatic Anchoring Effect: Mechanisms Of Selective Accessibility](https://www.dropbox.com/s/vihju37ob82nvxb/Explaining%20the%20enigmatic%20anchoring%20effect.pdf?dl=0) |
-| 9 Apr  | Rationality & decision-making |  | [Knowing With Certainty: The Appropriateness Of Extreme Confidence](https://www.dropbox.com/s/cbzihvnxfhzmaun/Knowing%20with%20Certainty.pdf?dl=0) |
+| 9 Apr  | Rationality & decision-making | Sierra | [Knowing With Certainty: The Appropriateness Of Extreme Confidence](https://www.dropbox.com/s/cbzihvnxfhzmaun/Knowing%20with%20Certainty.pdf?dl=0) |
 | 9 Apr  | Rationality & decision-making |  | [Extraneous Factors In Judicial Decisions](https://www.dropbox.com/s/glnbbxtmmxy3thr/Extraneous%20factors%20in%20judicial%20decisions.pdf?dl=0) |
 | 16 Apr   | Persuasion | Stephen | [Indirect Persuasion In Advertising](https://www.dropbox.com/s/wrp6zoz4gi5ynsq/Indirect%20persuasion%20in%20advertising.pdf?dl=0) |
 | 16 Apr   | Persuasion | Kristen  |[Cognitive Consequences Of Forced Compliance](https://www.dropbox.com/s/xilkul1lqvnh2sx/cognitive-consequence-forced-compliance.pdf?dl=0) |

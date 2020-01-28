@@ -1,3 +1,5 @@
+Choose an article [here](https://www.dropbox.com/home/hcc-articles/articles%20-%20selection%20for%20critical%20review), noting the correspondence between the paper topic and presentation dates.
+
 | Date    | Theme |Name | Title |
 | ------- | ---- |---- | ----- |
 | 18 Feb | Sense & perception |  |  |

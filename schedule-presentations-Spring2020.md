@@ -2,7 +2,7 @@ Choose an article [here](https://www.dropbox.com/home/hcc-articles/articles%20-%
 
 | Date    | Theme |Name | Title |
 | ------- | ---- |---- | ----- |
-| 18 Feb | Sense & perception |  |  |
+| 18 Feb | Sense & perception | Yorghos | Perceptual Objects and the Cost of Filtering |
 | 25 Feb | Attention, memory, priming, learning | Sharon | Priming and communication |
 | 5 Mar   | Emotions, feelings, neuroaesthics |   |   |
 | 10 Mar   | Divided brain | Georgia | Cognitive consequences of compliance |

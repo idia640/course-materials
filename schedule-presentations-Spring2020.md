@@ -4,8 +4,9 @@ Choose an article [here](https://www.dropbox.com/home/hcc-articles/articles%20-%
 | ------- | ---- |---- | ----- |
 | 18 Feb | Sense & perception | Yorghos | Perceptual Objects and the Cost of Filtering |
 | 25 Feb | Attention, memory, priming, learning | Sharon | Priming and communication |
-| 5 Mar   | Emotions, feelings, neuroaesthics |   |   |
-| 10 Mar   | Divided brain | Georgia | Cognitive consequences of compliance |
+| 5 Mar   | Emotions, feelings, neuroaesthics | Cory  |  Transient Emotions on Decision Making |
+| 10 Mar   | Thinking | John | Room2Room
+| 24 Mar   | Divided brain | Georgia | Cognitive consequences of compliance |
 | 24 Mar  | Communication | Victoria | The mindlessness of ostensible thoughtlessness |
 | 31 Mar | Heuristics & biases | Mariah | Explaining the enigmatic anchoring affect of selective accessibility|
 | 7 Apr  | Decision-making | Jen | Extraneous factors in judicial decisions |

@@ -8,6 +8,7 @@ Choose an article [here](https://www.dropbox.com/home/hcc-articles/articles%20-%
 | 10 Mar   | Thinking | John | Room2Room
 | 24 Mar   | Divided brain | Georgia | Cognitive consequences of compliance |
 | 24 Mar  | Communication | Victoria | The mindlessness of ostensible thoughtlessness |
+| 31 Mar |  | Ghadeer | Spoken Language Comprehension Improves the Efficiency of Visual Search |
 | 31 Mar | Heuristics & biases | Mariah | Explaining the enigmatic anchoring affect of selective accessibility|
 | 7 Apr  | Decision-making | Jen | Extraneous factors in judicial decisions |
 | 14 Apr  | Persuasion | Monique | Indirect persuasion in advertising |
